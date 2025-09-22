@@ -6,6 +6,8 @@ Este repositório está em constante evolução
 
 - **CREATE**: Adição de novos registro ao banco de dados.
 - **READ**: Consulta os dados gravados no banco.
+- **UPDATE**: Atualização dos dados existentes no banco.
+- **DELETE**: Remoção de registros do banco de dados.
 
 ---
 
