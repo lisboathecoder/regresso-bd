@@ -59,11 +59,11 @@ WHERE marca = 'Salon Line';
 
 -- Desafios Extras
 
-UPDATE produtos SET preco = preco * 0.7
+UPDATE produtos SET preco = preco * 0.7 -- Aplique 30% de desconto em produtos da categoria "Pele"
 WHERE categoria = 'Pele';
 
-UPDATE produtos SET estoque = estoque + 25
+UPDATE produtos SET estoque = estoque + 25 -- Aumentar o estoque em 25 unidades para produtos com preço acima de R$ 150,00
 WHERE preco > 150;
 
-DELETE FROM produtos
+DELETE FROM produtos -- Deletar produtos que tenham estoque entre 1 e 5 unidades
 WHERE  estoque < 5;
