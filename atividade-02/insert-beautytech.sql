@@ -11,7 +11,7 @@ CREATE TABLE produtos (
 
 
 INSERT INTO beautytechdb(nome, marca, preco, categoria, estoque)
-VALUES
+VALUES;
 --- Criado por mim 
 ("Creme de pentear de coco", "Salon Line", "Cabelo", 31,90, 50),
 ("Creme Labial", "Dove", "Boca", 10,99, 50),
@@ -35,4 +35,4 @@ VALUES
 ("Sérum Facial", "The Ordinary", "Pele", 59.90, 20),
 ("Batom Matte", "Quem Disse, Berenice?", "Boca", 29.90, 35);
 
-SELECT * FROM beautytechdb
+SELECT * FROM beautytechdb;
