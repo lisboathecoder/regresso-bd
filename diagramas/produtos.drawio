@@ -4,7 +4,7 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="43" value="Produtos" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FF0000;strokeColor=light-dark(#ff0000, #ededed);gradientDirection=south;rounded=1;gradientColor=#EAF4FF;" vertex="1" parent="1">
+                <mxCell id="43" value="Produtos" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FF0000;strokeColor=light-dark(#ff0000, #ededed);gradientDirection=south;rounded=1;gradientColor=#FFFFFF;perimeterSpacing=0;strokeWidth=2;shadow=0;swimlaneLine=0;" vertex="1" parent="1">
                     <mxGeometry x="50" y="720" width="370" height="270" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="43">
